@@ -33,12 +33,12 @@ class Application:
             'georgia 18 bold'), fg='black', bg='grey')
         self.name.place(x=0, y=100)
 
-        # age
+        # Age
         self.age = Label(self.left, text="Age", font=(
             'georgia 18 bold'), fg='black', bg='grey')
         self.age.place(x=0, y=140)
 
-        # gender
+        # Gender
         self.gender = Label(self.left, text="Gender", font=(
             'georgia 18 bold'), fg='black', bg='grey')
         self.gender.place(x=0, y=180)
