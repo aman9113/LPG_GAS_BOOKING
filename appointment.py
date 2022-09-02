@@ -137,5 +137,5 @@ root.geometry("1366x768")
 root.resizable(False, False)
 
 
-# end the loop
+# end thr loop first
 root.mainloop()
